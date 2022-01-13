@@ -1,0 +1,55 @@
+**Recipes**
+
+1 Plank (Bench)
+    2 Wood
+1 Hardened Plank (Bench)
+    1 Plank
+    2 Stone
+1 Coal (Furnace)
+    3 Wood
+1 Copper Ingot (Furnace)
+    2 Copper Ore
+    1 Coal
+1 Tin Ingot (Furnace)
+    2 Tin Ore
+    1 Coal
+2 Bronze Ingot (Alloy Smelter)
+    3 Copper Ingot
+    1 Tin Ingot
+
+
+**Facility**
+
+Bench
+    5 Wood
+Furnace
+    6 Stone
+Alloy Smelter
+    5 Hardened Plank
+    6 Copper Ingot
+    2 Tin Ingot
+
+
+**Items**
+
+Wood Axe (3 Plank)
+    Gather (3.0s -> 2.7s)
+Stone Axe (Wood Axe + 3 Hardened Plank)
+    Gather (2.7s -> 2.5s)
+    10% for Apple
+Copper Axe (Stone Axe + 3 Copper Ingot)
+    Gather (2.5s -> 2.3s)
+Tin Axe (Copper Axe + 3 Tin Ingot)
+    Gather (2.3s -> 2.1s)
+
+
+Wood Pickaxe (3 Plank)
+    Unlock Stone
+Stone Pickaxe (Wood Pickaxe + 3 Hardened Plank)
+    Gather (3.1s -> 2.8s)
+    30% for [1-3] Copper Ore
+Copper Pickaxe (Stone Pickaxe + 3 Copper Ingot)
+    20% for [1-3] Tin Ore
+Tin Pickaxe (Copper Pickaxe + 3 Tin Ingot)
+    Gather (2.8s -> 2.6s)
+    Copper Ore [1-3] -> [2-4]
